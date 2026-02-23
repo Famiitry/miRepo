@@ -2,6 +2,6 @@
 
 Oumuamua
 
-Mi primera contribucion local para Github
+Mi primera contribucion local
 
 One more commit of github
