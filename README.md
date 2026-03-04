@@ -23,3 +23,6 @@ To add proyecto1 like a example structure with css and .net and dockspace add th
     4. Enter
     5. To excecute, in the terminal go to the folder project and write ths: dotnet run
     5. Enter
+
+    03 /marzo / 2026
+        volvi a clonar este repo por algun bug en visual desktop
