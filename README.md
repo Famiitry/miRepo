@@ -26,3 +26,6 @@ To add proyecto1 like a example structure with css and .net and dockspace add th
 
     03 /marzo / 2026
         volvi a clonar este repo por algun bug en visual desktop
+
+    04 /marzo /2026
+        actualziacion de todo bien con mi repo xd 
