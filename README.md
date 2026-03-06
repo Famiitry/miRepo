@@ -29,3 +29,6 @@ To add proyecto1 like a example structure with css and .net and dockspace add th
 
     04 /marzo /2026
         actualziacion de todo bien con mi repo xd 
+
+    05 /marzo /2026
+        Actualizacion en paquetes repo htop desktop
