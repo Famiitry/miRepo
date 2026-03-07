@@ -2,7 +2,7 @@
 
 Oumuamua
 
-Mi primera contribucion local
+First Local contribution
 
 One more commit of github
 
