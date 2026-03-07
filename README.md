@@ -32,3 +32,6 @@ To add proyecto1 like a example structure with css and .net and dockspace add th
 
     05 /marzo /2026
         Actualizacion en paquetes repo htop desktop
+    
+    06 /marzo /2026
+         No se obtiene error de estas llaves ya que son publicas. 
