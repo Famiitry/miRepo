@@ -35,3 +35,6 @@ To add proyecto1 like a example structure with css and .net and dockspace add th
     
     06 /marzo /2026
          No se obtiene error de estas llaves ya que son publicas. 
+
+    08 /marzo /2026
+        Verificacion de progreso API :0.02x
