@@ -41,5 +41,7 @@ To add proyecto1 like a example structure with css and .net and dockspace add th
 
     09 /marzo /2026
         Estado beneficioso para API 
+    20 /marzo /2026
+        Coenctado a Docker
 
 Presiona <kbd>W</kbd> para ir hacia arriba, presiona <kbd>S</kbd> para abajo y <kbd>A</kbd> para la izqueirda o <kbd>D</kbd> oara la derecha
