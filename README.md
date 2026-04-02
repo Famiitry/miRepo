@@ -56,3 +56,5 @@ hola mundo.ucacue
 hola mundo.dockfile.tf
 no mention .ova dockerfile
 no install.23ai - update TCP in MAC 12:09:12:09:23
+
+npm install and add new data for oracle server management
