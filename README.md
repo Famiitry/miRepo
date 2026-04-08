@@ -60,3 +60,4 @@ upload new data
 Anthrophic learnging
 Gestion - Base de datos (Done)
 npm install and add new data for oracle server management
+analizar, documentar, enviar informe.
