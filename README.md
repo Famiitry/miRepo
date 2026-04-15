@@ -64,3 +64,5 @@ analizar, documentar, enviar informe.
 Actualizar schema y data SQL 
 TCP CPntrollers added to scrpt
 no updatre from TCP 
+node.js and Dbeaver updates
+
