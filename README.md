@@ -67,3 +67,4 @@ no updatre from TCP
 node.js and Dbeaver updates
 aproved new statements 
 new depeendency 
+Android - pills - kubernets, Docker: apiUnirepo
